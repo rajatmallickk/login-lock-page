@@ -1,0 +1,92 @@
+.background{
+    background-image:url(color.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 82vh;
+    width: 99%;
+  }
+  .table{
+    height: 80%;
+    width: 40%;
+    margin-left:30%;
+    margin-top:-6%;
+    border-radius: 30px;
+    box-shadow: inset 100px 100px 100px 100px rgba(255, 255, 255, 0.534);
+  }
+  .lock{
+    width: 10%;
+    height: 15%;
+    margin-top:8%;
+    margin-left:45%;
+  }
+  img{
+    height: 100%;
+    width: 100%;
+  }
+  #login{
+    height: 10%;
+    width: 30%;
+    padding-top:10%;
+    margin-left:35%;
+    font-size:40px;
+    color: white;
+  }
+  .username{
+    color: rgb(255, 255, 255);
+    font-size:20px;
+    margin-left:10%;
+  }
+  #username{
+    width: 75%;
+    height: 8%;
+    margin-left:10%;
+    margin-top:-3%;
+    background-color: rgb(255, 255, 255);
+    border-radius:30px;
+    border: 1px solid rgb(224, 224, 224);
+  }
+  .password{
+    color: rgb(255, 255, 255);
+    font-size:20px;
+    margin-left:10%;
+  }
+  #password{
+    width: 75%;
+    height: 8%;
+    margin-left:10%;
+    margin-top:-3%;
+    background-color: rgb(255, 255, 255);
+    border-radius:30px;
+    border:1px solid rgb(224, 224, 224);
+  }
+  #checkbox{
+    margin-left:10%;
+    margin-top:2%;
+  }
+  #login1{
+    width: 75%;
+    height: 10%;
+    background-color: aqua;
+    border-color:aqua;
+    color: black;
+    text-align: center;
+    margin-top:3%;
+    font-size:20px;
+    margin-left:10%;
+    border-radius:50px;
+  }
+  .dont{
+    color: white;
+    font-size:15px;
+    font-family: arial;
+    margin-top:2%;
+    margin-left:12%;
+  }
+  .forgot{
+    color:white;
+    font-size:15px;
+    font-family:arial;
+    margin-left:65%;
+    margin-top:-5%;
+  }
